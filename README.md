@@ -19,6 +19,12 @@ Can you use this dataset to make an algorithm that is able to determine if an ar
 # Model Pipeline #
 ![alt text](https://github.com/HamoyeHQ/stage-f-16-fake-news/blob/master/Model_pipeline.PNG)
 
+# Stemming #
+![alt text](https://github.com/HamoyeHQ/stage-f-16-fake-news/blob/master/Stemming.PNG)
+
+# Output of Tokenization #
+![alt text](https://github.com/HamoyeHQ/stage-f-16-fake-news/blob/master/Output_of_tokenization.PNG)
+
 # Results #
 ![alt text](https://github.com/HamoyeHQ/stage-f-16-fake-news/blob/master/Model%20Metrices.PNG)
 
