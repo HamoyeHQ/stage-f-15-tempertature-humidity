@@ -28,4 +28,8 @@ Can you use this dataset to make an algorithm that is able to determine if an ar
 # Results #
 ![alt text](https://github.com/HamoyeHQ/stage-f-16-fake-news/blob/master/Model%20Metrices.PNG)
 
+# Conclusion #
+From different ML models used, we conclude that SVM and Logistic regression provide higher accuracy, compared to Naive Bayes used.
+
+
 
