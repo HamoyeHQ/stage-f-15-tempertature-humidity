@@ -12,3 +12,7 @@ The rise of fake news during the 2016 U.S. Presidential Election highlighted not
 Can you use this dataset to make an algorithm that is able to determine if an article is fake news or not?
 
 [Here is a link to the dataset](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)
+
+# Model Pipeline #
+![alt text](https://github.com/HamoyeHQ/stage-f-16-fake-news/blob/master/Model_pipeline.PNG)
+https://github.com/HamoyeHQ/stage-f-16-fake-news/blob/master/Model_pipeline.PNG
