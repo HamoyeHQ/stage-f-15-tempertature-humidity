@@ -7,7 +7,7 @@ Need: Now-a-days due to advent of social media and other social and news  delive
 The rise of fake news during the 2016 U.S. Presidential Election highlighted not only the dangers of the effects of fake news but also the challenges presented when attempting to separate fake news from real news. Fake news may be a relatively new term but it is not necessarily a new phenomenon. Fake news has technically been around at least since the appearance and popularity of one-sided, partisan newspapers in the 19th century. However, advances in technology and the spread of news through different types of media have increased the spread of fake news today.
 
 # Existing Techniques #
-![alt text](https://github.com/HamoyeHQ/stage-f-16-fake-news/blob/master/Model_pipeline.PNG)
+![alt text](https://github.com/HamoyeHQ/stage-f-16-fake-news/blob/master/Existing%20techniques.PNG)
 
 # Fake And Real News Dataset #
 *Classifying the news*
